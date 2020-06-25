@@ -1,0 +1,46 @@
+li{
+    margin-bottom : 15px; 
+}
+
+#head{
+    background-color: aqua;
+}
+
+#head:hover{
+    background-color: red;
+}
+
+td{
+    border : 1px solid black;
+    text-align: center;
+    padding : 14px;
+}
+
+table, tr{
+    border : 1px solid black;
+    border-collapse: collapse;
+}
+
+.chk{
+    width : 120px;
+}
+
+.name{
+    width : 90px;
+}
+.number{
+    width : 100px;
+}
+.age{
+    width : 90px;
+}
+.grade{
+    width : 100px;
+}
+.exp{
+    width : 150px;
+}
+iframe{
+    width : 700px;
+    height: 500px;
+}
